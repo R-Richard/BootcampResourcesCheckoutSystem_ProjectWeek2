@@ -1,0 +1,6 @@
+Bootcamp Resource Checkout System
+Student Account For User ID: U234, JAMIE NOEL
+
+Checked Out Resources:
+
+SQL and You

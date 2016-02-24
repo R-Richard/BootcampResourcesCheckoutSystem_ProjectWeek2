@@ -1,0 +1,6 @@
+Bootcamp Resource Checkout System
+Student Account For User ID: U567, WILFORD WILLIAMS
+
+Checked Out Resources:
+
+Lots Of Programming Stuff
